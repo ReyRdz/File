@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.cordova.orientation" version="1.5.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 <preference name="phonegap-version" value="cli-9.0.0" />
-  <name>Filev2</name>
+  <name>File</name>
   <description>
-      Esta es una App de PhoneGapp brujula
+      Esta es una App de PhoneGapp File
   </description>
-  <author email="armando.gotenks@gmail.com" href="http://cordova.io">
-      Luis Armando ortiz Salinas
-  </author>
+  <author email="reymundo2009@hotmail.es" href="http://cordova.io"> Reymundo Rodriguez Avila </author>
   <content src="index.html" />
   <plugin name="cordova-plugin-whitelist" spec="1.3.4" />
   <plugin name="cordova-plugin-dialogs"/> 
